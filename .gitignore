@@ -1,0 +1,11 @@
+# Negeer de virtuele omgeving
+.venv/
+venv/
+
+# Negeer IDE-instellingen (PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Negeer Python cache
+__pycache__/
+*.pyc
